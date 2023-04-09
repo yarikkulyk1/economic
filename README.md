@@ -6,6 +6,8 @@
 	<center><h3 style="color:grey; font-size:20px;"><a href="https://yarikkulyk1.github.io/zovnzvyazki/">Зовнішні зв'язки(партнери)(експорт-імпорт)</a></h3></center>
 	<center><h3 style="color:grey; font-size:20px;"><a href="https://yarikkulyk1.github.io/vzayemodiaeconom/">Взаємодія економіки ПМР і Росії як основного зовнішнього партнера</a></h3></center>
 	<center><h3 style="color:grey; font-size:20px;"><a href="https://yarikkulyk1.github.io/vplivaniePMR/">Впливання ПМР на економіки Молдови</a></h3></center>
+	<center><h3 style="color:grey; font-size:20px;"><a href="https://yarikkulyk1.github.io/visnovokecon/
+">Висновок</a></h3></center>
 </head>
 <body style="background-color: black">
 </body>
